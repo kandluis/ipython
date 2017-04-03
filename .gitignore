@@ -87,4 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
->>>>>>> f60b678928f687cc27dd032ee8befdd8a2fd553a
+
+# Other ignores.
+.DS_Store
+*.csv
+*.pk
