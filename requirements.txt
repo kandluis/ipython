@@ -10,7 +10,7 @@ functools32==3.2.3.post2
 google-api-python-client==1.6.2
 httplib2==0.10.3
 ipykernel==4.5.2
-ipython==5.3.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 jupyter-client==5.0.0
 jupyter-core==4.3.0
